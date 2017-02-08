@@ -38,10 +38,6 @@ datasource_id = sys.argv[1]
 password      = sys.argv[2]
 
 projectListURL = 'https://forge.ow2.org/softwaremap/full_list.php'
-countT = 1
-count = 0
-page = 1
-i = 0
 
 # establish database connection: ELON
 '''
